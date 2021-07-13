@@ -49,7 +49,8 @@ const columns = [{
     {
         label: 'Owner',
         fieldName: 'Owner',
-        type: 'text'
+        type: 'text',
+        sortable: true
     }
 ];
 
